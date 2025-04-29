@@ -41,7 +41,7 @@ conda install jupyter pandas numpy matplotlib seaborn
 
 #### 5. Launch Jupyter Notebook
 ```bash
-jupyter notebook seals.ipynb
+jupyter notebook Spectogram.ipynb
 ```
 
 ---
