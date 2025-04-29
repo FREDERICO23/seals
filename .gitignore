@@ -9,6 +9,7 @@ __pycache__/
 #Datasets
 Moan/
 Guttural rupe/
+data/
 
 # Distribution / packaging
 .Python
