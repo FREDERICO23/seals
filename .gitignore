@@ -10,6 +10,9 @@ __pycache__/
 Moan/
 Guttural rupe/
 data/
+Rupes A and B/
+models/
+processed_data/
 
 # Distribution / packaging
 .Python
