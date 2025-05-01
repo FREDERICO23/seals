@@ -34,7 +34,7 @@ spectrogram.png          # Example spectrogram image
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/seals_project.git
+git clone https://github.com/Yashwanthjamala/seals_project.git
 cd seals_project
 ```
 
