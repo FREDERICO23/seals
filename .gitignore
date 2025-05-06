@@ -13,6 +13,7 @@ data/
 Rupes A and B/
 models/
 processed_data/
+dataset_splits/
 
 # Distribution / packaging
 .Python
