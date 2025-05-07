@@ -1,0 +1,23 @@
+Total calls processed: 1583
+
+Distribution by call type:
+  Rupe A: 252
+  Rupe B: 119
+  Rupe C: 25
+  Growl B: 3
+  rupe A: 7
+  rupe B: 5
+  G rupe: 722
+  unidentified: 1
+  Type 4 A: 18
+  nan: 2
+  Moan: 426
+  Type 4 B: 1
+  HS Groan: 2
+
+Processed source directories:
+  Rupes A and B
+  Guttural rupe
+  Moan
+
+Target dimensions: (128, 88)
